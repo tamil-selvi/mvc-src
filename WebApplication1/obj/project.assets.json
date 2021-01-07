@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\learn\\core-src\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "D:\\learn\\core-src\\mvc-src\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "D:\\learn\\core-src\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "D:\\learn\\core-src\\mvc-src\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Tamil\\.nuget\\packages\\",
-      "outputPath": "D:\\learn\\core-src\\WebApplication1\\obj\\",
+      "outputPath": "D:\\learn\\core-src\\mvc-src\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
