@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "zWAJKnJm7IB+DxOEEkQwTAdI436pufPQt17KYT55LqVMZNcgEM/f4vsb4Wto3bvKmzFl0dpPo5JzIIQQq74IEw==",
+  "success": false,
+  "projectFilePath": "D:\\learn\\core-src\\mvc-src\\Calculations.Test\\Calculations.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tamil\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Tamil\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project WebApplication1 is not compatible with netstandard2.0 (.NETStandard,Version=v2.0). Project WebApplication1 supports: netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
+      "libraryId": "WebApplication1",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

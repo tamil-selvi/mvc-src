@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uangAFwVT9VJlRvO3NOCxQ3Rao+fNIv3sszhjDbRRQD7BNI2ftp3IS8zJnB1WKWNfj2AHUu1LlqHUwufIsw7tg==",
+  "dgSpecHash": "MFuS/MRr+SsBS+sR6HWI9ObVcNchBC1c74Fblt4loANhObM6UmlgBmj73jMiZ/0LFwepbiX3XtY3AimeKlmBhw==",
   "success": true,
-  "projectFilePath": "D:\\learn\\core-src\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "D:\\learn\\core-src\\mvc-src\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
