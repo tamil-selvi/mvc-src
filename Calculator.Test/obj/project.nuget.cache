@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "2VQyVRrcwKl05GIIUwklxouh4HzCzEb1wfKKY/5iRHFBZG7Cd+g8UOr9y0Bmm+wwmW27eYauNICji5Fw5Kqm1w==",
+  "dgSpecHash": "08br5MzHMg9FXWhEapHbwJNbeWycMw0zD2MMFGgyi0pQriAqKX5Hs0CwHjtW0a5YF1H8cqzmj5R1wgNEvSIFkg==",
   "success": true,
   "projectFilePath": "D:\\learn\\core-src\\mvc-src\\Calculator.Test\\Calculator.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tamil\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\Tamil\\.nuget\\packages\\coverlet.msbuild\\2.9.0\\coverlet.msbuild.2.9.0.nupkg.sha512",
     "C:\\Users\\Tamil\\.nuget\\packages\\microsoft.codecoverage\\16.8.3\\microsoft.codecoverage.16.8.3.nupkg.sha512",
     "C:\\Users\\Tamil\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\Tamil\\.nuget\\packages\\microsoft.net.test.sdk\\16.8.3\\microsoft.net.test.sdk.16.8.3.nupkg.sha512",

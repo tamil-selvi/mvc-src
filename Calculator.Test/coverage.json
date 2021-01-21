@@ -1,0 +1,602 @@
+{
+  "WebApplication1.dll": {
+    "D:\\learn\\core-src\\mvc-src\\WebApplication1\\Program.cs": {
+      "WebApplication1.Program": {
+        "System.Void WebApplication1.Program::Main(System.String[])": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.Extensions.Hosting.IHostBuilder WebApplication1.Program::CreateHostBuilder(System.String[])": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\learn\\core-src\\mvc-src\\WebApplication1\\Startup.cs": {
+      "WebApplication1.Startup": {
+        "Microsoft.Extensions.Configuration.IConfiguration WebApplication1.Startup::get_Configuration()": {
+          "Lines": {
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.Void WebApplication1.Startup::ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "25": 0,
+            "26": 0,
+            "27": 0
+          },
+          "Branches": []
+        },
+        "System.Void WebApplication1.Startup::Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)": {
+          "Lines": {
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "37": 0,
+            "38": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "45": 0,
+            "47": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0
+          },
+          "Branches": [
+            {
+              "Line": 32,
+              "Offset": 9,
+              "EndOffset": 11,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 9,
+              "EndOffset": 22,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void WebApplication1.Startup::.ctor(Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\learn\\core-src\\mvc-src\\WebApplication1\\Models\\ErrorViewModel.cs": {
+      "WebApplication1.Models.ErrorViewModel": {
+        "System.String WebApplication1.Models.ErrorViewModel::get_RequestId()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean WebApplication1.Models.ErrorViewModel::get_ShowRequestId()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\learn\\core-src\\mvc-src\\WebApplication1\\Controllers\\HomeController.cs": {
+      "WebApplication1.Controllers.HomeController": {
+        "Microsoft.AspNetCore.Mvc.IActionResult WebApplication1.Controllers.HomeController::Index()": {
+          "Lines": {
+            "22": 1,
+            "23": 1,
+            "24": 1
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult WebApplication1.Controllers.HomeController::Privacy()": {
+          "Lines": {
+            "30": 0,
+            "31": 0,
+            "32": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult WebApplication1.Controllers.HomeController::Error()": {
+          "Lines": {
+            "36": 0,
+            "37": 0,
+            "38": 0
+          },
+          "Branches": [
+            {
+              "Line": 37,
+              "Offset": 14,
+              "EndOffset": 16,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 14,
+              "EndOffset": 20,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 26,
+              "EndOffset": 28,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 26,
+              "EndOffset": 40,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void WebApplication1.Controllers.HomeController::.ctor(Microsoft.Extensions.Logging.ILogger`1<WebApplication1.Controllers.HomeController>)": {
+          "Lines": {
+            "16": 1,
+            "17": 1,
+            "18": 1,
+            "19": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\learn\\core-src\\mvc-src\\WebApplication1\\BL\\Calculator.cs": {
+      "WebApplication1.BL.Calculator": {
+        "System.Int32 WebApplication1.BL.Calculator::get_age()": {
+          "Lines": {
+            "14": 1
+          },
+          "Branches": []
+        },
+        "System.Int32 WebApplication1.BL.Calculator::Add(System.Int32,System.Int32)": {
+          "Lines": {
+            "16": 1,
+            "17": 1,
+            "18": 1
+          },
+          "Branches": []
+        },
+        "System.Double WebApplication1.BL.Calculator::AddDouble(System.Double,System.Double)": {
+          "Lines": {
+            "21": 1,
+            "22": 1,
+            "23": 1
+          },
+          "Branches": []
+        },
+        "System.Boolean WebApplication1.BL.Calculator::IsOdd(System.Int32)": {
+          "Lines": {
+            "26": 6,
+            "27": 6,
+            "28": 6
+          },
+          "Branches": []
+        },
+        "System.Void WebApplication1.BL.Calculator::AppendDictionary(System.Collections.Generic.Dictionary`2<TKey,TValue>,System.Collections.Generic.Dictionary`2<TKey,TValue>)": {
+          "Lines": {
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "38": 0
+          },
+          "Branches": [
+            {
+              "Line": 32,
+              "Offset": 69,
+              "EndOffset": 11,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 38,
+              "EndOffset": 40,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 38,
+              "EndOffset": 61,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 69,
+              "EndOffset": 71,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void WebApplication1.BL.Calculator::.ctor()": {
+          "Lines": {
+            "10": 1,
+            "11": 1,
+            "12": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\learn\\core-src\\mvc-src\\WebApplication1\\BL\\Customer.cs": {
+      "WebApplication1.BL.Customer": {
+        "System.Int32 WebApplication1.BL.Customer::GetOrdersByName(System.String)": {
+          "Lines": {
+            "12": 2,
+            "13": 2,
+            "14": 1,
+            "15": 1,
+            "17": 1,
+            "18": 1
+          },
+          "Branches": [
+            {
+              "Line": 13,
+              "Offset": 9,
+              "EndOffset": 11,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 13,
+              "Offset": 9,
+              "EndOffset": 18,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "WebApplication1.BL.LoyalCustomer": {
+        "System.Int32 WebApplication1.BL.LoyalCustomer::get_Discount()": {
+          "Lines": {
+            "25": 1
+          },
+          "Branches": []
+        },
+        "System.Void WebApplication1.BL.LoyalCustomer::set_Discount(System.Int32)": {
+          "Lines": {
+            "26": 1
+          },
+          "Branches": []
+        },
+        "System.Int32 WebApplication1.BL.LoyalCustomer::GetOrdersByName(System.String)": {
+          "Lines": {
+            "34": 0,
+            "35": 0,
+            "36": 0
+          },
+          "Branches": []
+        },
+        "System.Void WebApplication1.BL.LoyalCustomer::.ctor()": {
+          "Lines": {
+            "28": 1,
+            "29": 1,
+            "30": 1,
+            "31": 1
+          },
+          "Branches": []
+        }
+      },
+      "WebApplication1.BL.CustomerFactory": {
+        "WebApplication1.BL.Customer WebApplication1.BL.CustomerFactory::CreateCustomerInstance(System.Int32)": {
+          "Lines": {
+            "42": 1,
+            "43": 1,
+            "44": 0,
+            "46": 1,
+            "47": 1
+          },
+          "Branches": [
+            {
+              "Line": 43,
+              "Offset": 11,
+              "EndOffset": 13,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 43,
+              "Offset": 11,
+              "EndOffset": 21,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    },
+    "D:\\learn\\core-src\\mvc-src\\WebApplication1\\BL\\Names.cs": {
+      "WebApplication1.BL.Names": {
+        "System.String WebApplication1.BL.Names::MakeFullName(System.String,System.String)": {
+          "Lines": {
+            "11": 1,
+            "12": 1,
+            "13": 1
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "WebApplication1.Views.dll": {
+    "D:\\learn\\core-src\\mvc-src\\WebApplication1\\Views\\Home\\Index.cshtml": {
+      "AspNetCore.Views_Home_Index/<ExecuteAsync>d__0": {
+        "System.Void AspNetCore.Views_Home_Index/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "2": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\learn\\core-src\\mvc-src\\WebApplication1\\Views\\Home\\Privacy.cshtml": {
+      "AspNetCore.Views_Home_Privacy/<ExecuteAsync>d__0": {
+        "System.Void AspNetCore.Views_Home_Privacy/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "2": 0,
+            "4": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\learn\\core-src\\mvc-src\\WebApplication1\\Views\\Shared\\Error.cshtml": {
+      "AspNetCore.Views_Shared_Error/<ExecuteAsync>d__0": {
+        "System.Void AspNetCore.Views_Shared_Error/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "3": 0,
+            "9": 0,
+            "10": 0,
+            "12": 0,
+            "14": 0
+          },
+          "Branches": [
+            {
+              "Line": 9,
+              "Offset": 70,
+              "EndOffset": 72,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 9,
+              "Offset": 70,
+              "EndOffset": 136,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "D:\\learn\\core-src\\mvc-src\\WebApplication1\\Views\\Shared\\_Layout.cshtml": {
+      "AspNetCore.Views_Shared__Layout/<<ExecuteAsync>b__23_0>d": {
+        "System.Void AspNetCore.Views_Shared__Layout/<<ExecuteAsync>b__23_0>d::MoveNext()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": [
+            {
+              "Line": 6,
+              "Offset": 425,
+              "EndOffset": 427,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 425,
+              "EndOffset": 538,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 921,
+              "EndOffset": 923,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 921,
+              "EndOffset": 1034,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "AspNetCore.Views_Shared__Layout/<<ExecuteAsync>b__23_1>d": {
+        "System.Void AspNetCore.Views_Shared__Layout/<<ExecuteAsync>b__23_1>d::MoveNext()": {
+          "Lines": {
+            "34": 0,
+            "45": 0,
+            "46": 0
+          },
+          "Branches": [
+            {
+              "Line": 34,
+              "Offset": 591,
+              "EndOffset": 593,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 591,
+              "EndOffset": 704,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 1213,
+              "EndOffset": 1215,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 1213,
+              "EndOffset": 1326,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 1835,
+              "EndOffset": 1837,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 1835,
+              "EndOffset": 1948,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 2475,
+              "EndOffset": 2477,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 2475,
+              "EndOffset": 2588,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 2949,
+              "EndOffset": 2951,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 2949,
+              "EndOffset": 3063,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 3425,
+              "EndOffset": 3427,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 3425,
+              "EndOffset": 3539,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 45,
+              "Offset": 4050,
+              "EndOffset": 4052,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 45,
+              "Offset": 4050,
+              "EndOffset": 4164,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "D:\\learn\\core-src\\mvc-src\\WebApplication1\\Views\\_ViewStart.cshtml": {
+      "AspNetCore.Views__ViewStart/<ExecuteAsync>d__0": {
+        "System.Void AspNetCore.Views__ViewStart/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "2": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
